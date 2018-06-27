@@ -1,0 +1,37 @@
+
+     ********************************
+        Neutron-Nucleus Scattering   
+      ~Computation of cross section~ 
+     ********************************
+
+   Angle | Diff. Cross Section
+ ---------------------------------
+     0   |      354.6957   fm^2
+    10   |      286.0645   fm^2
+    20   |      144.0985   fm^2
+    30   |       42.1961   fm^2
+    40   |       16.9864   fm^2
+    50   |       19.6708   fm^2
+    60   |       10.2987   fm^2
+    70   |        3.6369   fm^2
+    80   |       17.0212   fm^2
+    90   |       28.6606   fm^2
+   100   |       17.4541   fm^2
+   110   |        4.5862   fm^2
+   120   |       16.3043   fm^2
+   130   |       32.9461   fm^2
+   140   |       21.4341   fm^2
+   150   |        2.2685   fm^2
+   160   |       29.1037   fm^2
+   170   |       98.9162   fm^2
+   180   |      137.7938   fm^2
+
+ Absolute error < 10^(-4)
+
+ *** Total Cross Section ***
+  sigma =  344.397  fm^2
+
+ Type following commands :
+ %> gnuplot < gnu
+ %> gv Diff_CS.eps
+
